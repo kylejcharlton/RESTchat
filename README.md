@@ -1,4 +1,4 @@
-# Pony Express - a chat application
+# RESTchat - a chat application
 
 ## Backend
 
